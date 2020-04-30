@@ -11,6 +11,8 @@ body div {
 
 .block__ {
   color: red;
+  color: green;
+  color: black;
 }
 
 @media screen {
