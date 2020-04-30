@@ -1,0 +1,16 @@
+body {
+	font-size: 20px;
+	div {
+		font-size: 10px;
+	}
+	display: flex;
+}
+
+.block {
+	&__ {
+		color: red;
+	}
+	@media screen {
+		color: red;
+	}
+}

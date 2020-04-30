@@ -1,0 +1,20 @@
+body {
+  font-size: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body div {
+  font-size: 10px;
+}
+
+.block__ {
+  color: red;
+}
+
+@media screen {
+  .block {
+    color: red;
+  }
+}
